@@ -1,0 +1,862 @@
+|-
+|AAE || [[above aerodrome elevation]]
+|-
+|AAL || above aerodrome level
+|-
+|A/C || [[aircraft]]
+|-
+|ACARS || [[ACARS|Aircraft Communication and Addressing Reporting System]]
+|-
+|ACAS ||[[airborne collision avoidance system]]
+|-
+|ACC || [[active clearance control]]
+|-
+|ACFT || [[aircraft]]
+|-
+|ACI || [[Airports Council International]]
+|-
+|ACMS || [[aircraft condition monitoring system]]
+|-
+|ACU || air condition unit
+|-
+|AD || [[airworthiness directive]]
+|-
+|A/D || [[aerodrome]]
+|-L
+|ADA ||[[advisory area]]
+|-
+|ADAHRS || [[air data attitude heading reference system]] 
+|-
+|ADC || [[air data computer]] 
+|-
+|ADD || [[acceptable deferred defect]]
+|-
+|ADF || [[automatic direction finder]]
+|-
+|ADI || [[Attitude Director Indicator]]
+|-
+|ADIRS || Air Data Inertial Reference System
+|-
+|ADIZ || [[Air Defense Identification Zone]]
+|-
+|ADS || [[automatic dependent surveillance]]
+|-
+|ADV || [[Arbeitsgemeinschaft Deutscher Verkehrsflughäfen]] German Airports Association
+|-
+|AFCS || [[automatic flight control system]]
+|-
+|A/FD || [[Airport/Facility Directory]]
+|-
+|AFDS || [[autopilot flight director system]]
+|-
+|AFE || [[above field elevation]]
+|-
+|AFS || [[aeronautical fixed service]]
+|-
+|AFT|| [[Aft]] The direction against the aircraft movement
+|-
+|AFTN || [[Aeronautical Fixed Telecommunication Network]]
+|-
+|AGL || [[above ground level]]
+|-
+|AHRS || [[Attitude and heading reference system]]
+|-
+|AIP || [[Aeronautical Information Publication]]
+|-
+|AIRAC || Aeronautical information regulation and control
+|-
+|ALI || Airworthiness Limitation Item
+|-
+|ALS || [[approach lighting system]]
+|-
+|AMO || [[Approved Maintenance Organization]]
+|-
+|AMSL || [[above mean sea level]]
+|-
+|ANSP || [[air navigation service provider]]
+|-
+|AOA || [[angle of attack]]
+|-
+|AOC || [[air operator's certificate]]
+|-
+|AOG || [[aircraft on ground]]
+|-
+|AOM || [[aircraft operations manual]] / [[airport/aerodrome operating minima]] 
+|-
+|AP || [[autopilot]]
+|-
+|A/P || [[airplane]] (US), [[aeroplane]] (ICAO)
+|-
+|APT || [[airport]]
+|-
+|APU || [[auxiliary power unit]]
+|-
+|AR || [[authorization required]]
+|-
+|ARINC || [[ARINC|Aeronautical Radio Inc.]]
+|-
+|ARP ||	aerodrome reference point
+|-
+|ARTCC || air route traffic control centers
+|-
+|ASAS || [[Airborne Separation Assurance System]]
+|-
+|ASDA || [[Association for Scientific Development of Air Traffic Management in Europe]]<ref>[http://www.asda.aero/ Association for Scientific Development of Air Traffic Management in Europe]</ref>
+|-
+|ASI || [[airspeed indicator]]
+|-
+|ASL || [[above mean sea level|above sea level]]
+|-
+|ASM || airspace management
+|-
+|A/T || [[autothrottle]]
+|-
+|ATA || [[Air Traffic Association]]
+|-
+|ATC || [[air traffic control]]
+|-
+|ATFM || [[air traffic flow management]]
+|-
+|ATIS || [[Automatic Terminal Information Service]]
+|-
+|ATM || air traffic management
+|-
+|ATN||[[Aeronautical Telecommunication Network]]
+|-
+|ATQP || [[Alternative Training and Qualification Programme]]
+|-
+|ATPL||[[Airline Transport Pilot Licence]]
+|-
+|ATS || [[air traffic service]]
+|-
+|BC || back course
+|-
+|BITE || Built-In Test Equipment
+|-
+|BL || Butt Line
+|-
+|B/P || Blue Print
+|-
+|BPR || bypass ratio
+|-
+|BOM || Bill of Material 
+|-
+|BWC || bird watch condition
+|-
+|C2 || [[command and control]]
+|-
+|CAA || [[Civil Aviation Authority]]
+|-
+|CAME || Continuing Airworthiness Management Exposition
+|-
+|CAMO || Continuing Airworthiness Management Organisation
+|-
+|CANSO || [[Civil Air Navigation Services Organisation]]
+|-
+|CAR ||[[civil aviation requirements]]
+|-
+|CAS || [[calibrated airspeed]]
+|-
+|CDI || course deviation indicator
+|-
+|CDU || control/display unit
+|-
+|CFIT || [[controlled flight into terrain]]
+|-
+|CFR || [[Code of Federal Regulations]]
+|-
+|CG || [[center of gravity]]
+|-
+|CMM || component maintenance manual
+|-
+|CMV || [[converted meteorological visibility]]
+|-
+|CPDLC || [[controller–pilot data link communications]]
+|-
+|CSU || [[constant speed unit]]
+|-
+|CTAF || [[common traffic advisory frequency]]
+|-
+|CTR ||	[[control zone|controlled traffic region/control zone]]
+|-
+|CVR || [[cockpit voice recorder]]
+|-
+|DA || [[density altitude]]
+|-
+|DA/H || [[decision height|decision altitude/height]] (rel. to THR) See [[instrument landing system]]
+|-
+|DER || departure end of runway / [http://www.faa.gov/other_visit/aviation_industry/designees_delegations/designee_types/der/ Designated engineering representative]
+|-
+|DG || [[directional gyro]]
+|-
+|DGR || Dangerous Goods Regulation
+|-
+|DIA || diameter 
+|-
+|DLR || [http://www.dlr.de/en/ German Aerospace Center / Deutsches Zentrum für Luft- und Raumfahrt e.V.]
+|-
+|DME || [[distance measuring equipment]]
+|-
+|DOW || dry operational weight
+|-
+|DR || [[dead reckoning]]
+|-
+|DUATS || [[DUATS|Direct User Access Terminal Service]]
+|-
+|DWC || [[dog watch condition]]
+|-
+|EADI || Electronic Attitude Direction indicator
+|-
+|EAS || [[equivalent airspeed]]
+|-
+|EASA || [[European Aviation Safety Agency]]
+|-
+|EBOM || engineering Bill of Material 
+|-
+|ECR || Engineering Change Request
+|-
+|EGPWS || [[enhanced ground proximity warning system]]
+|-
+|EDTO || [[extended diversion time operations]]
+|-
+|EOBT || [[estimated off-blocktime]]
+|-
+|ECAM || electronic centralised aircraft monitor
+|-
+|ECET || [[end of civil evening twilight]]
+|-
+|EFIS || [[electronic flight instrument system]]
+|-
+|EGT || exhaust gas temperature
+|-
+|EICAS || [[engine-indicating and crew-alerting system]]
+|-
+|E-LSA || experimental [[light-sport aircraft]]
+|-
+|ELT || [[emergency locator transmitter]]
+|-
+|EMAS || [[Engineered materials arrestor system|engineered materials arresting system]]
+|-
+|EPR || engine pressure ratio
+|-
+|ESA || emergency safe altitude
+|-
+|ETA || [[estimated time of arrival]]
+|-
+|ETD || [[Estimated Time of Departure|estimated time of departure]]
+|-
+|ETP || equal time point
+|-
+|ETOPS || Extended-range Twin-engine Operation Performance Standards, see [[ETOPS]]
+|-
+|EUROCAE || [[European Organisation for Civil Aviation Equipment]]
+|-
+|EW || Empty Weight
+|-
+|FAA || U.S. Department of Transportations' [[Federal Aviation Administration]]
+|-
+|FADEC || [[full authority digital engine control]]
+|-
+|FAF || [[final approach (aviation)#Final approach point|final approach fix]]
+|-
+|FAF || [first available flight]
+|-
+|FANS || future air navigation system
+|-
+|FAP || final approach point
+|-
+|FAP || forward attendant panel
+|-
+|FAROS || final approach runway occupancy signal
+|-
+|FATO || final approach and take off
+|-
+|FBO || fixed base operator
+|-
+|FBW || [[fly-by-wire]]
+|-
+|FCOM || [[Flight Crew Operating Manual|flight crew operating manual]]
+|-
+|FD || flight director
+|-
+|FDM || [[FOQA|flight data monitoring]]
+|-
+|FDR || [[flight data recorder]] (also known as black box)
+|-
+|FEP || final end point
+|-
+|FFDZ || free fall drop zone (parachutists)
+|-
+|FIR || [[flight information region]]
+|-
+|FL || [[flight level]]
+|-
+|FMA || [[flight mode annunciator]]
+|-
+|FMC || [[flight management computer]] (same as FMS)
+|-
+|FMS || [[flight management system]]
+|-
+|FOO || [[flight operation officer]]
+|-
+|FOQA || [[FOQA|flight operational quality assurance]]
+|-
+|FPA || [[flight path angle]]
+|-
+|FPL || [[Flight plan|filed flight plan]]
+|-
+|FSF || [[Flight Safety Foundation]]
+|-
+|FSS || [[flight service station]]
+|-
+| GA || [[general aviation]]
+|-
+|G/A || [[go-around]]
+|-
+|GCA || [[Ground-controlled approach]]
+|-
+|GEA || [[Ground effect area]]
+|-
+|GLOC || [[g-LOC|''g''-induced loss of consciousness]], where ''g'' is acceleration relevant to the acceleration caused by gravity
+|-
+|GND || [[Air traffic control#Ground control|ground]]
+|-
+|GP || glide path. See [[Instrument landing system]]
+|-
+|GPS || [[Global Positioning System]]
+|-
+|GPU || [[Ground Power Unit]]
+|-
+|GPWS || [[ground proximity warning system]]
+|-
+|G/S || [[glideslope]]
+|-
+|GS || [[groundspeed]]
+|-
+|GSE || [[ground service equipment]]
+|-
+|H || Heavy
+|-
+|HAZMAT || Hazardous Material
+|-
+|HDG || Heading
+|-
+|HFE || [[Human Factors Engineering]]<ref>http://acronyms.thefreedictionary.com/HFE</ref>
+|-
+|HFES || [[???]]
+|-
+|HIRO || High Intensity Runway Operation
+|-
+|HIRTA || High Intensity Radio Transmission Area
+|-
+|HIWAS || [[Hazardous Inflight Weather Advisory Service]]
+|-
+|HL || Height loss
+|-
+|HLD || hold (hold altitude or speed or something else) (same as maintain, but not maintenance!)
+|-
+|HPA || [[human-powered aircraft]]
+|-
+|HSI || [[horizontal situation indicator]]
+|-
+|HUD || [[head-up display]]
+|-
+|HYD || [[hydraulic]]
+|-
+|HYDIM || [[hydraulic interface module]]
+|-
+|IB || Inboard
+|-
+|IAF || [[initial approach fix]]
+|-
+|IAP || [[instrument approach procedure]]
+|-
+|IAS || [[indicated airspeed]]
+|-
+|IATA || [[International Air Transport Association]]
+|-
+|ICA  || [[Instructions for Continuous Airworthiness]]
+|-
+|ICAO || [[International Civil Aviation Organization]]
+|-
+|ICD  || [[Interface Control Document]]
+|-
+|ICO || idle cut-off
+|-
+|IDT || identify (XPDR)
+|-
+|IF || intermediate approach fix
+|-
+|IFA || International Federation of Airworthiness 
+|-
+|IFATCA || [[International Federation of Air Traffic Controllers' Associations]]
+|-
+|IFE || [[In Flight Entertainment]]
+|-
+|IFR || [[instrument flight rules]]
+|-
+|IFSD || [[in-flight shutdown]]
+|-
+|ILS || [[instrument landing system]]
+|-
+|IMC || instrument [[Meteorology|meteorological]] conditions
+|-
+|IML || Inside Mold Line 
+|-
+|INS || [[inertial navigation system]]
+|-
+|IR || Initial Release
+|-
+|IRS || [[inertial reference system]]
+|-
+|IRT || [[instrument rating test]]
+|-
+|ISA || [[International Standard Atmosphere]]
+|-
+|ISFD || [[integrated standby flight display]]
+|-
+|ISIS || [[integrated standby instrument system]]
+|-
+|ITAR || International Traffic in Arms Regulations
+|-
+|ITT || interstage turbine temperature
+|-
+|IAW || In accordance with 
+|-
+|KCAS || [[Knot (unit)|knots]] [[calibrated airspeed]]
+|-
+|KIAS || knots [[indicated airspeed]]
+|-
+|KTAS || knots [[true airspeed]]
+|-
+|LAME || licenced aircraft maintenance engineer
+|-
+|LCN || load classification number
+|-
+|LCG || load classification group
+|-
+|LHO || live human organs
+|-
+|LIR || Loading Instruction Report
+|-
+|LLC || Life Limited Component
+|-
+|LLZ || [[localizer]] (ILS)
+|-
+|LM || land and marine
+|-
+|LOC || [[aircraft upset|loss of control]]; Localizer
+|-
+|LOFT || [[line-oriented flight training]]
+|-
+|LOTC || loss of thrust control
+|-
+|LNAV || lateral navigation
+|-
+|LPV || [[localizer performance with vertical guidance]]
+|-
+|LRU || [[line-replaceable unit]]
+|-
+|LSAS || longitudinal stability augmentation system
+|-
+|LTP || Landing Threshold Point
+|-
+|LW || Landing Weight
+|-
+|LOM || Limitation Of Movement
+|-
+|MAC || mean aerodynamic chord
+|-
+|MAP || missed approach point
+|-
+|MATS || [[Manual of Air Traffic Services]]
+|-
+|MCP || [[mode control panel]]
+|-
+|ME || Manufacturing Engineer
+|-
+|MEA || Minimum En-route Altitude
+|-
+|MDA || [[Instrument approach#Minimum descent altitude (MDA)|minimum descent altitude]]
+|-
+|MDH || minimum descent height
+|-
+|MEDEVAC || medical evacuation
+|-
+|MEF || maximum elevation figure
+|-
+|MMEL || master minimum equipment list
+|-
+|MEL || minimum equipment list
+|-
+|METAR || meteorological aerodrome report ([[METAR]])
+|-
+|MFD || multi function display
+|-
+|MLDW || [[maximum landing weight]]
+|-
+|MLS || [[microwave landing system]]
+|-
+|MM || middle marker
+|-
+|MOC || minimum obstacle clearance
+|-
+|MOCA || Minimum Obstruction Clearance Altitude
+|-
+|MP || [[manifold pressure]]
+|-
+|MRB || Material Review Board 
+|-
+|MRO || maintenance repair overhaul 
+|-
+|MRP || Material Resources Planning 
+|-
+|MRW || [[maximum ramp weight]] 
+|-
+|MSA || minimum safe altitude{{\}}minimum sector altitude
+|-
+|MSDS || Material Safety Data Sheet
+|-
+|MSL || [[Sea level|mean sea level]]
+|-
+|MSLW || Max. Structural Landing Weight
+|-
+|MSTOW || Max. Structural Take-off Weight
+|-
+|MTOW || [[MTOW|maximum take-off weight]]
+|-
+|MSZFW || Max. Structural Zero Fuel Weight
+|-
+|MVA || Minimum Vectoring Altitude
+|-
+|MZFW || [[maximum zero-fuel weight]]
+|-
+|NDB || [[Non-directional beacon]]
+|-
+|NDT || [[Non-destructive testing]]
+|-
+|NOTAM || [[NOTAM|notice to airmen]]
+|-
+|NTZ || [[No-transgression zone]]
+|-
+|OBE || overcome by events
+|-
+|OBS || omni-bearing selector
+|-
+|OCA || obstacle clearance altitude
+|-
+|OCH || obstacle clearance height
+|-
+|OEI || one engine inoperative
+|-
+|OEM || [[original equipment manufacturer]]
+|-
+|OIS || obstacle identification surface
+|-
+|OM || outer marker
+|-
+|OTS || out of service
+|-
+|OW || operational weight
+|-
+|P || (as a prefix:) [[prohibited airspace]]
+|-
+|PA || [[pressure altitude]]
+|-
+|PANS-OPS || [[PANS-OPS|procedures for air navigation services&nbsp;– aircraft operations]]
+|-
+|PAPI || [[precision approach path indicator]]
+|-
+|PAOG || [[Pre Aircraft on Ground]]
+|-
+|PAR || precision approach radar
+|-
+|PBD || place bearing distance (RNAV waypoint)
+|-
+|PCN || [[pavement classification number]]
+|-
+|PDG || procedure design [[gradient]]
+|-
+|PDAS || public domain aeronautical software
+|-
+|PET || point of equal time
+|-
+|PF || pilot flying
+|-
+|PFD || primary flight display
+|-
+|PFAF || precision final approach fix
+|-
+|PIC ||Pilot In Command
+|-
+|PICUS||Pilot In Command, under supervision<ref>{{cite web|website=http://www.caa.co.uk/docs/33/CAP%20804%20Amtd%2015%20Sept%202014.pdf}}</ref>
+|-
+|PIO ||Pilot Induced Oscillations
+|-
+|PIREP || [[Pilot Report]]
+|-
+|PJE || Parachute jumping exercise
+|-
+|PM || pilot monitoring
+|-
+|PNF || pilot not flying
+|-
+|PNR || Point of No Return
+|-
+|POA || Production Organisation Approval
+|-
+|POH || [[Pilot's Operating Handbook]]
+|-
+|POF || [[Principles Of Flight]]
+|-
+|PPL || [[private pilot licence]]
+|-
+|PPR ||prior permission required
+|-
+|PSR || point of safe return
+|-
+|PSR || power supply reset
+|-
+|PSU || personal service unit
+|-
+|PS || Pax Step
+|-
+|PTT || [[Push-to-talk|push to talk]]
+|-
+|QFE || the [[Q-code]] for: Atmospheric pressure at aerodrome [[elevation]] (or at runway threshold)
+|-
+|QNH || the Q-code for: [[Altimeter]] sub-scale setting to obtain elevation when on the ground, i.e. altitude above ''MSL''
+|-
+|QRH || quick reference handbook
+|-
+|R || (as a prefix:) [[restricted airspace]]
+|-
+|RA || radio altitude or [[radar altimeter]]
+|-
+|RA || resolution advisory (in the context of [[traffic collision avoidance system|TCAS]])
+|-
+|RAS || rectified air speed
+|-
+|RA(T) || restricted area (temporary)
+|-
+|RCO || remote communications outlet
+|-
+|RDH || reference datum height for [[instrument landing system|ILS]]
+|-
+|RESA || [[runway safety area|runway end safety area]]
+|-
+|RFI || recreational flight instructor
+|-
+|RNAV || [[area navigation]]
+|-
+|RNP || required navigation performance
+|-
+|RSA || [[runway safety area]]
+|-
+|RSR || en-route surveillance radar
+|-
+|RT || [[radiotelephony]]
+|-
+|RTO || rejected take-off
+|-
+|RVR || [[runway visual range]]
+|-
+|RVSM || [[reduced vertical separation minima]]
+|-
+|RWY || [[runway]]
+|-
+|RW || [[ramp weight]]
+|-
+|RPL || [[Repetitive Flight Planning]]
+|-
+|SAS || [[Autopilot#Stability augmentation systems|stability augmentation system]]
+|-
+|SCAP || Standard Computerized Airplane Performance
+|-
+|SESAR || Single European Sky ATM Research
+|-
+|SIGMET || [[SIGMET|Significant Meteorological Information]]
+|-
+|SMOH || [[Since major overhaul]]
+|-
+|SMR || [[surface movement radar]]
+|-
+|SOC || start of climb at missed approach
+|-
+|SOP || [[standard operating procedure]]
+|-
+|SOW || [[Statement of Work]]
+|-
+|SID || [[standard instrument departure]]
+|-
+|SR || [[sunrise]]
+|-
+|SS || [[sunset]]
+|-
+|STAR || [[standard terminal arrival route]]
+|-
+|SODPRO || [[simultaneous opposite direction parallel runway operations]]
+|-
+|TA || traffic advisory (see [[Traffic collision avoidance system|TCAS]])
+|-
+|TAA || terminal arrival area
+|-
+|TACAN || [[tactical air navigation]]
+|-
+|TAF || [[terminal aerodrome forecast]]
+|-
+|TAM || [[total airport management]]
+|-
+|TAR || terminal approach radar
+|-
+|TAS || [[true airspeed]]
+|-
+|TAT || [[total air temperature]]
+|-
+|TAWS || [[terrain awareness and warning system]]
+|-
+|TCA || [[terminal control area]]
+|-
+|TCAS || [[traffic collision avoidance system]]
+|-
+|TCH || threshold crossing height
+|-
+|TDZ || touchdown zone
+|-
+|TERPS || terminal procedures
+|-
+|TFC || [[traffic]]
+|-
+|TFR || [[temporary flight restriction]]
+|-
+|TGB || transfer gearbox
+|-
+|TGL || temporary guidance leaflet
+|-
+|THLD || threshold
+|-
+|THR || runway threshold
+|-
+|THS || trimmable horizontal stabilizer, see [[tailplane]]
+|-
+|TLD || time-limited dispatch
+|-
+|TMA || [[terminal control area |terminal manoeuvring area (Europe)/terminal control area (USA and Canada)]]
+|-
+|TMZ || [[transponder (aeronautics)|transponder]] mandatory zone
+|-
+|TOD || [[top of descent]]
+|-
+|TODA || [[runway|take-off distance available]] 
+|-
+|TO/GA || take-off/go around
+|-
+|TOR || [[runway|take-off runway]]
+|-
+|TORA || [[runway|take-off runway available]] 
+|-
+|TOW || take-off weight
+|-
+|TOWS || [[take-off warning system]]
+|-
+|TP || turning point at missed approach
+|-
+|TRA || temporary reserved area (airspace)
+|-
+|TRACON || [[TRACON|terminal radar approach control]]
+|-
+|TRP || thrust rating panel
+|-
+|TTAF || total time air frame
+|-
+|TTSN || total time since new
+|-
+|TTSO || total time since overhaul
+|-
+|TWR || [[tower]]
+|-
+|TWY || taxiway
+|-
+|UAS || [[Unmanned Aircraft System]]<ref>US DoD</ref>
+|-
+|UAV || [[unmanned air vehicle]]
+|-
+|UHF || [[ultra-high frequency]]
+|-
+|UIR || upper information region
+|-
+|UTC || [[Universal Time Coordinated]]
+|-
+|V&V || [[Video & Vision]]<ref>http://acronyms.thefreedictionary.com/V%26V</ref>
+|-
+|VASI || [[visual approach slope indicator]]
+|-
+|VDP || Visual descent point
+|-
+|VFR || [[visual flight rules]]
+|-
+|VHF || [[very high frequency]]
+|-
+|VMC || [[visual meteorological conditions]]
+|-
+|VNAV || vertical navigation
+|-
+|VOR || [[VHF omnidirectional range]]
+|-
+|VSI || [[Vertical speed indicator]]
+|-
+|VVI || [[Vertical velocity indicator]] (the same as VSI)
+|-
+|V<sub>a</sub> || maneuvering speed
+|-
+|V<sub>fe</sub> || maximum flaps extended speed
+|-
+|V<sub>le</sub> || maximum landing gear extension sp
+|-
+|V<sub>lo</sub> || maximum landing gear operating speed
+|-
+|V<sub>mc</sub> || [[Minimum Control Speeds|minimum control speed]]
+|-
+|V<sub>mca</sub> || [[Minimum Control Speeds|velocity of minimum control in the air]]
+|-
+|V<sub>mcg</sub> || [[Minimum Control Speeds|velocity of minimum control on ground]]
+|-
+|V<sub>mo</sub> || maximum operating speed
+|-
+|V<sub>ne</sub> || [[Vne|never-exceed speed]]
+|-
+|V<sub>no</sub> || [[VNO speed|normal operating speed limit]]
+|-
+|V<sub>s</sub> || [[stall speed]]
+|-
+|V<sub>so</sub> || [[stall speed|stall speed in landing configuration]]
+|-
+|V<sub>x</sub> || best angle of climb speed
+|-
+|V<sub>y</sub> || best rate of climb speed
+|-
+|WAT || weight, altitude, temperature: variables that affect takeoff performance
+|-
+|W&B || Weight & Balance
+|-
+|WEF || with effect from
+|-
+|WOFW || weight-off-wheels, indicates aircraft is off ground since lift off
+|-
+|WONW || weight-on-wheels, indicates aircraft is on ground since touch down
+|-
+|XMIT || [[Transmission (telecommunications)|transmit]]
+|-
+|XPDR || [[transponder]]
+|-
+|XPNDR || transponder
+|-
+|Y || [[Yaw axis|yaw]] or ''yaw angle''
+|-
+|Y/D || yaw damper
+|-
+| Z || [[Zulu Time]] (UTC)
+|-
+| ZFT || zero-fuel time
+|-
+| ZFW || [[Maximum zero-fuel weight|zero-fuel weight]]

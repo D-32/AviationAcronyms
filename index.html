@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Aviation Acronyms</title>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+		
+		<script src="data/airfields.js"></script>
+		<script src="data/acronyms.js"></script>
+		
+		<script src="js/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+		
+		<style type="text/css" media="screen">
+			#searchContainer {
+				width: 80%;
+				margin: 20px auto 0 auto;
+			}
+			
+			#resultArea {
+				width: 80%;
+				margin: auto;
+			}
+			
+			#resultTitle {
+				height: 30px;
+			}
+			
+			#result {
+				font-size: 18px;
+			}
+		</style>
+		
+		<script>
+			$(document).ready(function() {
+				$("#searchField").focus();
+				$("#searchField").on('input', function(e) {
+					var token = $("#searchField").val().toUpperCase();
+					if (token.length > 0) {
+						var result = acronyms[token];
+						if (!result) {
+							result = airfields[token];
+						}
+						
+						if (result) {
+							$("#result").html(result);
+						} else {
+							$("#result").html("");
+						}
+					} else {
+						$("#result").html("");
+					}
+				});
+			});
+		</script>
+	</head>
+	<body>
+		<div class="input-group" id="searchContainer">
+			<input id="searchField" style="text-transform: uppercase" type="text" class="form-control" placeholder="Enter Acronym...">
+			<div class="input-group-btn">
+				<button type="button" class="btn btn-default" aria-label="Search">
+					<span class="glyphicon glyphicon-plane"></span>
+				</button>
+			</div>
+		</div>
+		<div id="resultArea">
+			<hr />
+			<pre id="result"></pre>
+		</div>
+	</body>
+</html>
