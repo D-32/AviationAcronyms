@@ -41,19 +41,12 @@
 				$("#searchField").on('input', function(e) {
 					var token = $("#searchField").val().toUpperCase();
 					if (token.length > 0) {
-						var result = custom[token];
-						if (!result) {
-							result = acronyms[token];
-						}
-						if (!result) {
-							result = airfields[token];
-						}
-						
-						if (result) {
-							$("#result").html(result);
-						} else {
-							$("#result").html("");
-						}
+						var output = "";
+						output += custom[token] + "<br />";
+						output += acronyms[token] + "<br />";
+						output += notam[token] + "<br />";
+						output += airfields[token] + "<br />";
+						$("#result").html(output);
 					} else {
 						$("#result").html("");
 					}
