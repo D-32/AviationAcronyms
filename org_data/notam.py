@@ -11,9 +11,9 @@ with open('notam.txt') as f:
   for line in f:
     count += 1
     if count % 6 == 1:
-      key = line
+      key = line.replace('\n', '')
     if count % 6 == 3:
-      value = line
+      value = line.replace('\n', '')
     if count % 6 == 5:
         newData[key] = value
     
