@@ -9,6 +9,8 @@
 		
 		<script src="data/airfields.js"></script>
 		<script src="data/acronyms.js"></script>
+		<script src="data/custom.js"></script>
+		<script src="data/notam.js"></script>
 		
 		<script src="js/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
@@ -39,16 +41,12 @@
 				$("#searchField").on('input', function(e) {
 					var token = $("#searchField").val().toUpperCase();
 					if (token.length > 0) {
-						var result = acronyms[token];
-						if (!result) {
-							result = airfields[token];
-						}
-						
-						if (result) {
-							$("#result").html(result);
-						} else {
-							$("#result").html("");
-						}
+						var output = "";
+						output += custom[token] + "<br />";
+						output += acronyms[token] + "<br />";
+						output += notam[token] + "<br />";
+						output += airfields[token] + "<br />";
+						$("#result").html(output);
 					} else {
 						$("#result").html("");
 					}
