@@ -42,10 +42,10 @@
 					var token = $("#searchField").val().toUpperCase();
 					if (token.length > 0) {
 						var output = "";
-						output += custom[token] + "<br />";
-						output += acronyms[token] + "<br />";
-						output += notam[token] + "<br />";
-						output += airfields[token] + "<br />";
+						output += custom[token] ? custom[token] + "<br />" : "";
+						output += acronyms[token] ? acronyms[token] + "<br />" : "";
+						output += notam[token] ? notam[token] + "<br />" : "";
+						output += airfields[token] ? airfields[token] + "<br />" : "";
 						$("#result").html(output);
 					} else {
 						$("#result").html("");
