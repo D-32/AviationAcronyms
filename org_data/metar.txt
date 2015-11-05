@@ -1,0 +1,77 @@
+AO1;Automated Observation without precipitation discriminator (rain/snow)
+AO2;Automated Observation with precipitation discriminator (rain/snow)
+AMD;Amended Forecast (TAF)
+APRNT;Apparent
+BECMG;Becoming (expected between 2 digit beginning hour and 2 digit ending hour)
+BKN;Broken
+CLR;Clear at or below 12,000 feet (AWOS/ASOS report)
+COR;Correction to the observation
+DSNT;Weather phenomena beyond 10sm of the observation point
+FEW;1 or 2 octas (eighths) cloud coverage
+FM;From (4 digit beginning time in hours and minutes)
+LDG;Landing
+M;In temperature field means "minus" or below zero
+M;In RVR listing indicates visibility less than lowest reportable sensor value (e.g. M600)
+M;In visibility, this indicates "less than"
+MOV;Moving
+NO;Not available (e.g. SLPNO, RVRNO)
+NSW;No Significant Weather
+OVC;Overcast
+P;in RVR indicates visibility greater than highest reportable sensor value (e.g. P6000FT)
+P6SM;Visibility greater than 6 SM (TAF only)
+PK WND;Peak Wind
+PRESFR;Pressure falling rapidly
+PRESRR;Pressure rising rapidly
+PROB40;Probability 40 percent
+R;Runway (used in RVR measurement)
+RMK;Remark
+RY/RWY;Runway
+SCT;Scattered
+SKC;Sky Clear
+SLP;Sea Level Pressure (e.g., 1013 reported as 013)
+SM;Statute mile(s)
+SPECI;Special Report
+TEMPO;Temporary changes expected (between 2 digit beginning hour and 2 digit ending hour)
+TKOF;Takeoff
+V;Varies (wind direction and RVR)
+VC;Vicinity
+VRB;Variable wind direction when speed is less than or equal to 6 knots
+VV;Vertical Visibility (Indefinite Ceiling)
+WS;Wind shear (In TAFs, low level and not associated with convective activity)
+BC;Patches
+BL;Blowing
+DR;Low Drifting
+FZ;Supercooled/freezing
+MI;Shallow
+PR;Partial
+SH;Showers
+TS;Thunderstorm
+BLPY;Blowing spray
+BR;Mist
+DS;Dust Storm
+DU;Widespread Dust
+DZ;Drizzle
+FC;Funnel Cloud
++FC;Tornado/Water Spout
+FG;Fog
+FU;Smoke
+GR;Hail
+GS;Small Hail/Snow Pellets
+HZ;Haze
+IC;Ice Crystals
+PL;Ice Pellets
+PO;Dust/Sand Whirls
+RA;Rain
+SA;Sand
+SG;Snow Grains
+SN;Snow
+SNINCR;Snow increasing rapidly
+SQ;Squall
+SS;Sandstorm
+UP;Unknown Precipitation 
+VA;Volcanic Ash
+ACSL;Altocumulus or Lenticular
+CB;Cumulonimbus
+CCSL;Cirrocumulus
+SCSL;Stratocumulus
+TCU;Towering Cumulus

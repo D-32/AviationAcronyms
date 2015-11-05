@@ -11,6 +11,7 @@
 		<script src="data/acronyms.js"></script>
 		<script src="data/custom.js"></script>
 		<script src="data/notam.js"></script>
+		<script src="data/metar.js"></script>
 		
 		<script src="js/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
@@ -45,6 +46,7 @@
 						output += custom[token] ? custom[token] + "<br />" : "";
 						output += acronyms[token] ? acronyms[token] + "<br />" : "";
 						output += notam[token] ? notam[token] + "<br />" : "";
+						output += metar[token] ? metar[token] + "<br />" : "";
 						output += airfields[token] ? airfields[token] + "<br />" : "";
 						$("#result").html(output);
 					} else {
