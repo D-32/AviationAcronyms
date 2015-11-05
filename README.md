@@ -11,6 +11,7 @@ At the moment it uses following data sources:
 - https://en.wikipedia.org/wiki/List_of_aviation,_aerospace_and_aeronautical_abbreviations
 - https://github.com/mwgg/Airports
 - http://www.moratech.com/aviation/notam-abbrev.html
+- http://www.aopa.org/Pilot-Resources/PIC-archive/Flight-Training-Ratings-and-Proficiency/METAR-TAF-Abbreviations
 - And some custom data
 
 If you have anything to add, feel free to contact me or create a pull request.
